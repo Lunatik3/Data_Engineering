@@ -3,7 +3,7 @@ import json
 
 str_json = ''
 
-with open('text_6_var_5', encoding='utf-8') as file:
+with open('text_6_var_28', encoding='utf-8') as file:
     lines = file.readlines()
     for line in lines:
         str_json += line
@@ -13,12 +13,12 @@ data = data['items']
 
 soup = BeautifulSoup("""<table>
     <tr>
-        <th>project</th>
-        <th>article</th>
-        <th>granularity</th>
-        <th>timestamp</th>
-        <th>access</th>
-        <th>agent</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
     </tr>
  </table>""", "html.parser")
 
@@ -31,6 +31,6 @@ for tick in data:
         tr.append(td)
     table.append(tr)
 
-with open('r_text_6_var_5.html', 'w') as result:
+with open('text_6_result.html', 'w') as result:
     result.write(soup.prettify())
     result.write('\n')
