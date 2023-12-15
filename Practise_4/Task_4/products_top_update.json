@@ -1,0 +1,112 @@
+[
+  {
+    "id": 478,
+    "name": "trendy eye cream",
+    "price": 63.81,
+    "quantity": 421,
+    "category": "cosmetics",
+    "fromCity": "Хельсинки",
+    "isAvailable": "0",
+    "views": 49868,
+    "version": null
+  },
+  {
+    "id": 481,
+    "name": "marvelous drywall",
+    "price": 71.48,
+    "quantity": 1166,
+    "category": "tools",
+    "fromCity": "Кордова",
+    "isAvailable": "1",
+    "views": 96996,
+    "version": null
+  },
+  {
+    "id": 484,
+    "name": "luxurious baby shampoo",
+    "price": 49.12,
+    "quantity": 489,
+    "category": "cosmetics",
+    "fromCity": "Загреб",
+    "isAvailable": "1",
+    "views": 76930,
+    "version": null
+  },
+  {
+    "id": 487,
+    "name": "marvelous flooring",
+    "price": 14.27,
+    "quantity": 620,
+    "category": "tools",
+    "fromCity": "Сараево",
+    "isAvailable": "0",
+    "views": 26044,
+    "version": null
+  },
+  {
+    "id": 490,
+    "name": "refined banana",
+    "price": 75.65,
+    "quantity": 502,
+    "category": "fruit",
+    "fromCity": "Кишинев",
+    "isAvailable": "0",
+    "views": 51189,
+    "version": null
+  },
+  {
+    "id": 499,
+    "name": "delightful scaffolding",
+    "price": 10.32,
+    "quantity": 717,
+    "category": "tools",
+    "fromCity": "Тудела",
+    "isAvailable": "1",
+    "views": 61039,
+    "version": null
+  },
+  {
+    "id": 502,
+    "name": "attractive conditioner",
+    "price": 34.62,
+    "quantity": 512,
+    "category": "cosmetics",
+    "fromCity": "Краков",
+    "isAvailable": "0",
+    "views": 39310,
+    "version": null
+  },
+  {
+    "id": 508,
+    "name": "stylish scaffolding",
+    "price": 32.68000000000001,
+    "quantity": 44,
+    "category": "tools",
+    "fromCity": "Сория",
+    "isAvailable": "0",
+    "views": 10801,
+    "version": null
+  },
+  {
+    "id": 517,
+    "name": "trendy mango",
+    "price": 38.05,
+    "quantity": 559,
+    "category": "fruit",
+    "fromCity": "Краков",
+    "isAvailable": "1",
+    "views": 60998,
+    "version": null
+  },
+  {
+    "id": 519,
+    "name": "luxurious sunscreen",
+    "price": 74.56,
+    "quantity": 964,
+    "category": "cosmetics",
+    "fromCity": "Рига",
+    "isAvailable": "0",
+    "views": 51827,
+    "version": null
+  }
+]

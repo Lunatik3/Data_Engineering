@@ -1,0 +1,211 @@
+[
+  {
+    "id": 693,
+    "name": "exquisite shampoo",
+    "price": 96.23,
+    "quantity": 1179,
+    "category": "cosmetics",
+    "fromCity": "Махадаонда",
+    "isAvailable": "1",
+    "views": 41363,
+    "version": null
+  },
+  {
+    "id": 629,
+    "name": "glamorous face wash",
+    "price": 80.1,
+    "quantity": 1111,
+    "category": "cosmetics",
+    "fromCity": "Малага",
+    "isAvailable": "1",
+    "views": 69560,
+    "version": null
+  },
+  {
+    "id": 519,
+    "name": "luxurious sunscreen",
+    "price": 74.56,
+    "quantity": 964,
+    "category": "cosmetics",
+    "fromCity": "Рига",
+    "isAvailable": "0",
+    "views": 51827,
+    "version": null
+  },
+  {
+    "id": 608,
+    "name": "amazing sunscreen",
+    "price": 19.48,
+    "quantity": 901,
+    "category": "cosmetics",
+    "fromCity": "Афины",
+    "isAvailable": "0",
+    "views": 87540,
+    "version": null
+  },
+  {
+    "id": 590,
+    "name": "gorgeous pedicure set",
+    "price": 163.40699999999998,
+    "quantity": 877,
+    "category": "cosmetics",
+    "fromCity": "Самора",
+    "isAvailable": "0",
+    "views": 58113,
+    "version": null
+  },
+  {
+    "id": 634,
+    "name": "superb nail polish",
+    "price": 14.85,
+    "quantity": 856,
+    "category": "cosmetics",
+    "fromCity": "Бильбао",
+    "isAvailable": "1",
+    "views": 60230,
+    "version": null
+  },
+  {
+    "id": 528,
+    "name": "elegant exfoliator",
+    "price": 66.272,
+    "quantity": 853,
+    "category": "cosmetics",
+    "fromCity": "Севилья",
+    "isAvailable": "0",
+    "views": 59813,
+    "version": null
+  },
+  {
+    "id": 539,
+    "name": "tasteful moustache wax",
+    "price": 92.56,
+    "quantity": 761,
+    "category": "cosmetics",
+    "fromCity": "Мурсия",
+    "isAvailable": "0",
+    "views": 80976,
+    "version": null
+  },
+  {
+    "id": 679,
+    "name": "attractive lotion",
+    "price": 42.64,
+    "quantity": 714,
+    "category": "cosmetics",
+    "fromCity": "Мерида",
+    "isAvailable": "0",
+    "views": 5025,
+    "version": null
+  },
+  {
+    "id": 644,
+    "name": "beautiful lotion",
+    "price": 76.21,
+    "quantity": 689,
+    "category": "cosmetics",
+    "fromCity": "Тудела",
+    "isAvailable": "1",
+    "views": 43764,
+    "version": null
+  },
+  {
+    "id": 600,
+    "name": "stylish body wash",
+    "price": 71.53,
+    "quantity": 677,
+    "category": "cosmetics",
+    "fromCity": "Эльче",
+    "isAvailable": "1",
+    "views": 62975,
+    "version": null
+  },
+  {
+    "id": 536,
+    "name": "magnificent toner",
+    "price": 48.809,
+    "quantity": 636,
+    "category": "cosmetics",
+    "fromCity": "Мартоса",
+    "isAvailable": "0",
+    "views": 91132,
+    "version": null
+  },
+  {
+    "id": 660,
+    "name": "exquisite bubble bath",
+    "price": 46.3,
+    "quantity": 525,
+    "category": "cosmetics",
+    "fromCity": "Прага",
+    "isAvailable": "0",
+    "views": 370,
+    "version": null
+  },
+  {
+    "id": 502,
+    "name": "attractive conditioner",
+    "price": 34.62,
+    "quantity": 512,
+    "category": "cosmetics",
+    "fromCity": "Краков",
+    "isAvailable": "0",
+    "views": 39310,
+    "version": null
+  },
+  {
+    "id": 484,
+    "name": "luxurious baby shampoo",
+    "price": 49.12,
+    "quantity": 489,
+    "category": "cosmetics",
+    "fromCity": "Загреб",
+    "isAvailable": "1",
+    "views": 76930,
+    "version": null
+  },
+  {
+    "id": 613,
+    "name": "stylish serum",
+    "price": 276.72,
+    "quantity": 485,
+    "category": "cosmetics",
+    "fromCity": "Рига",
+    "isAvailable": "0",
+    "views": 19248,
+    "version": null
+  },
+  {
+    "id": 478,
+    "name": "trendy eye cream",
+    "price": 63.81,
+    "quantity": 421,
+    "category": "cosmetics",
+    "fromCity": "Хельсинки",
+    "isAvailable": "0",
+    "views": 49868,
+    "version": null
+  },
+  {
+    "id": 610,
+    "name": "delightful toner",
+    "price": 75.3,
+    "quantity": 394,
+    "category": "cosmetics",
+    "fromCity": "Хихон",
+    "isAvailable": "0",
+    "views": 10096,
+    "version": null
+  },
+  {
+    "id": 589,
+    "name": "pleasant lip balm",
+    "price": 74.23,
+    "quantity": 30,
+    "category": "cosmetics",
+    "fromCity": "Мартоса",
+    "isAvailable": "0",
+    "views": 84612,
+    "version": null
+  }
+]
