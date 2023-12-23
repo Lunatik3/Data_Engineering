@@ -2,7 +2,6 @@ import pickle
 import json
 from pymongo import MongoClient
 
-# считываем первый файл
 def read_file(filename):
     with open(filename, 'rb') as file:
         data = pickle.load(file)
